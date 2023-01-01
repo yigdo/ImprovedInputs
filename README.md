@@ -2,7 +2,7 @@
 
 Improved Inputs  is  a  library  that can  make  your inputs much easier. For  example, think about yourself creating a  simple  calculator in  python. First, probably you will  show  the  user  all possible operations and  ask  them to  choose  one.With Improved  Inputs(II)  you can  easily create a selection menu. Let's look to it:  
 ```python  
-from  inprovedinputs  import functions as ii  
+from  improvedinputs  import functions as ii  
   
   
 ...  
